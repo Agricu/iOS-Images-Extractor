@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:iOSImagesExtractor.xcodeproj">
+      location = "group:iOSImagesExtractor/iOSImagesExtractor.xcodeproj">
    </FileRef>
 </Workspace>
